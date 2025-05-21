@@ -1,14 +1,13 @@
-
 Group Member Assignments:
-
-1. Member 1: Student login, profile
-2. Member 2: Lecturer dashboard
-3. Member 3: Event creation, QR generation
-4. Member 4: Attendance tracking
-5. Member 5: Department + filtering
-6. Member 6: Announcements + statistics
+1. Katie Tolo: Student login/sign up, Home 
+2. Simangaliso Ntuli: Admin dashboard and mmanagement page
+3. Mnelisi Mabona: Event list page, QR Scanner
+4. Mpilonhle Mzimela: Attendance Page, Prolfile Page
+5. Ofenste Lebaka: Student Attendance page and analytics page
+6. Patience Phakathi: Notifications + Admin/lecturer login
 
 Each member handles:
+- Wireframe (Figma)
 - Flutter UI (frontend)
-- API endpoint (backend)
+- Node.js (backend)
 - MySQL table (database)
