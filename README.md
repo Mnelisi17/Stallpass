@@ -24,8 +24,8 @@
 - Mpilonhle Mzimela: Attendance Page and Prolfile Page
 - Ofenste Lebaka: Student Attendance page and analytics page
 
-{Each member handles:
+**Each member handles:
 - Assigned Wireframe (Figma)
 - Flutter UI (frontend)
 - Node.js (backend)
-- MySQL table (database)}
+- MySQL table (database)
