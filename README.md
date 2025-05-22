@@ -17,7 +17,7 @@
 - **Database**: MySQL
 
 ## 👥 Contributors
-- Patience Phakathi -Notifications and Admin login & sign up (UI Design & Flutter Development)
+- Patience Phakathi: Notifications and Admin login & sign up (UI Design & Flutter Development)
 - Katie Tolo: Student login/sign up and Home 
 - Simangaliso Ntuli: Admin dashboard and mmanagement page
 - Mnelisi Mabona: Event list page and QR Scanner
