@@ -1,30 +1,23 @@
 # Stallpass
-An application using QR codes to automate student attendance and event management at universities.
 
-## Features
+**Stallpass** is a smart event and attendance management platform built for universities. It uses QR codes to simplify and automate student check-ins, while providing admin tools for organizing events and announcements.
+
+## ✨ Features
+
 - Student QR scan to mark attendance
 - Lecturer dashboard to track attendance
 - Admin tools for managing events and announcements
 - Statistics and reporting
 - Built with Flutter, Node.js, and MySQL
 
-## Folder Structure
-- `frontend/`: Flutter mobile/web application
-- `backend/`: Node.js Express API
-- `database/`: SQL schema and seed scripts
+## 🛠 Tech Stack
 
-## How to Run
+- **Frontend**: Flutter (web/mobile)
+- **Backend**: Node.js (Express.js)(Express API)
+- **Database**: MySQL
 
-### Backend
-```bash
-cd backend
-npm install
-node server.js
-```
+## 👥 Contributors
+- Patience Phakathi -Notifications and Admin login & sign up (UI Design & Flutter Development)
 
-### Frontend
-```bash
-cd frontend
-flutter pub get
-flutter run
-```
+
+
