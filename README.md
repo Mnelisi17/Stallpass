@@ -18,6 +18,14 @@
 
 ## 👥 Contributors
 - Patience Phakathi -Notifications and Admin login & sign up (UI Design & Flutter Development)
+- Katie Tolo: Student login/sign up and Home 
+- Simangaliso Ntuli: Admin dashboard and mmanagement page
+- Mnelisi Mabona: Event list page and QR Scanner
+- Mpilonhle Mzimela: Attendance Page and Prolfile Page
+- Ofenste Lebaka: Student Attendance page and analytics page
 
-
-
+{Each member handles:
+- Assigned Wireframe (Figma)
+- Flutter UI (frontend)
+- Node.js (backend)
+- MySQL table (database)}
